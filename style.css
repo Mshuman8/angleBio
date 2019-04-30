@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css?family=Domine|Roboto"); 
+
+body{
+    margin: 100px 100px 100px 100px;
+    background-color: gainsboro;
+    /*border-left: solid, 8px;*/
+    /*border-color: blue;*/
+}
+
+#statusPic {
+    width: 200px;
+    height: 300px;
+}
+
+h1 {
+    font-family: 'Domine', serif;
+}
+
+h2 {
+    font-family: 'Domine', sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+#intro {
+    font-size: 25px;
+    background-color: pink;
+    border-left: solid;
+    border-width: 10px;
+    border-color: magenta;
+    
+}
+
+#profilePic {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: pink;
+}
+
+#aboutMe {
+    background-color: palegreen;
+    border-right: solid;
+    border-width: 10px;
+    border-color: green;
+}
+
+#joke {
+    background-color: lightblue;
+    border-left: solid;
+    border-width: 10px;
+    border-color: blue;
+}
+
+#favorites {
+    background-color: lemonchiffon;
+    border-right: solid;
+    border-width: 10px;
+    border-color: gold;
+}
+
+#thingsToBuy {
+    background-color: lavender;
+    border-left: solid;
+    border-width: 10px;
+    border-color: purple;
+}
+
+#statusPic {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
